@@ -1,6 +1,6 @@
 # Interactive Quiz App Using React Js
 
-This is a simple interactive quiz web application created using HTML, CSS, and JavaScript. Users can answer multiple-choice questions and receive feedback on their performance. 
+This is a simple interactive quiz web application created using HTML, CSS, and JavaScript. Users can answer multiple choice questions and receive feedback on their performance. 
 
 ## Features
 
@@ -21,7 +21,7 @@ This is a simple interactive quiz web application created using HTML, CSS, and J
 - After completing all questions, you will see your final score.
 
 ## Getting Started
-- git clone 
+- git clone https://github.com/Manojkumar7978/indi-gg.git
 - open the folder
 - copy the path of index.html page and open it on your browser
 
