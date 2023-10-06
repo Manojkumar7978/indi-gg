@@ -1,0 +1,98 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-image: url('https://png.pngtree.com/background/20230426/original/pngtree-dark-sky-with-storm-clouds-coming-over-trees-and-mountains-picture-image_2484456.jpg');
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.quiz-container {
+    width: 600px;
+    height: 300px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid rgb(6, 6, 77);
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    ;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-image: linear-gradient(to right, #3f3f3d 0%, #333325 51%, #5a5549 100%);
+    ;
+    color: white;
+}
+
+h1 {
+    font-size: 40px;
+    margin-top: 40px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.question-container {
+    margin-bottom: 20px;
+    display: flex;
+    gap: 20px;
+}
+
+#question-area {
+    text-align: left;
+    width: 65%;
+}
+#question-no {
+    font-size: 25px;
+}
+
+.options {
+    text-align: left;
+    margin-top: 10px;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    padding: 10px 0 10px 5px;
+    width: 100%;
+    font-size: small;
+    border: 2px solid rgb(1, 1, 65);
+    background: rgb(38, 38, 70);
+    border-radius: 5px;
+}
+
+
+#submit,
+#next,#restart {
+    width: 100px;
+    padding: 10px 20px;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: all ease 0.2s;
+    /* transition: 0.5s; */
+    background-size: 200% auto;
+    border-radius: 5px;
+    background-image: linear-gradient(to right, #f33fc0 0%, #6094ee 51%, #f77fd5 100%);
+}
+
+
+#submit:hover,
+#next:hover ,
+#restart:hover{
+    background-position: right center;
+}
+
+#submit:active,
+#next:active,
+#restart:active {
+    scale: 0.9;
+}
+
+#restart{
+    margin: auto;
+    margin-top: 20px;
+}
