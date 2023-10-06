@@ -1,4 +1,4 @@
-# Interactive Quiz App Using React Js
+# Interactive Quiz App Using HTML,CSS and Js
 
 This is a simple interactive quiz web application created using HTML, CSS, and JavaScript. Users can answer multiple choice questions and receive feedback on their performance. 
 
