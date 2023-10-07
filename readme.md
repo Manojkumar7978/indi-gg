@@ -3,7 +3,7 @@
 This is a simple interactive quiz web application created using HTML, CSS, and JavaScript. Users can answer multiple choice questions and receive feedback on their performance. 
 
 ## Demo
-- https://vimeo.com/871806579/f3238043b3?share=copy
+- https://vimeo.com/872090409/1395c4bcc6?share=copy
 
 ## Link
 - https://65211d045f8889523d584579--cheery-nasturtium-b66343.netlify.app/
